@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+**/node_modules
+
+# Build output
+build
+dist
+.cache
+
+# VCS / tooling
+.git
+.gitignore
+.pulumi
+infrastructure/.pulumi
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (if any)
+.env
+.env.*
