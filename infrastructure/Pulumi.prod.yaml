@@ -6,4 +6,6 @@ config:
   cst8918-a03-infra:cpu: '1'
   cst8918-a03-infra:memory: '2'
   cst8918-a03-infra:prefixName: 'cst8918-a03-kandakji'
-  cst8918-a03-infra:imageTag: 'v0.2.0'
+  cst8918-a03-infra:imageTag: 'v0.3.0'
+  cst8918-a03-infra:weatherApiKey:
+    secure: AAABAMwtuXZ6KZU3fWaE36S3oikzmw3n3ek9yMZPWK62J2DcdWe9U+uPH5ldHPI6Z+m+mt35I2ZOA+higIiSsA==
